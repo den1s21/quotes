@@ -1,0 +1,38 @@
+body {
+	background: #FFF8DC;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+ul {
+	font-size: 25px;
+	text-align: center;
+}
+
+li {
+	list-style-type: none;
+}
+
+blockquote::before {
+  content: open-quote;
+}
+blockquote::after {
+  content: close-quote;
+}
+blockquote {
+  quotes: "“" "”" "‘" "’";
+}
+
+blockquote {
+	font-size: 20px;
+}
+
+a[href] {
+
+}
+
+footer {
+	text-align: center;
+}
