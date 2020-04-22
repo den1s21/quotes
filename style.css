@@ -3,6 +3,7 @@ body {
 }
 
 h1, h2 {
+	color: olive;
 	text-align: center;
 }
 
@@ -30,7 +31,8 @@ blockquote {
 }
 
 a[href] {
-
+	color: DarkOliveGreen;
+	text-decoration: none;
 }
 
 footer {
