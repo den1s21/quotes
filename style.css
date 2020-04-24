@@ -7,6 +7,16 @@ h1, h2 {
 	text-align: center;
 }
 
+hr {
+	border: none;
+	background-color: olive;
+	color: olive;
+	height: 2px;
+	width: 5cm;
+	margin-top: 1cm;
+	margin-bottom: 0px;
+}
+
 ul {
 	font-size: 25px;
 	text-align: center;
